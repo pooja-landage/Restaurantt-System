@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant-System", "Restaurant-System\Restaurant-System.csproj", "{B583C5CF-9C69-4F67-B36F-EE0CF61FCE7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantLogic", "..\RestaurantLogic\RestaurantLogic\RestaurantLogic.csproj", "{F8C8669F-64B0-49AC-8B95-675E1650D153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B583C5CF-9C69-4F67-B36F-EE0CF61FCE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B583C5CF-9C69-4F67-B36F-EE0CF61FCE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B583C5CF-9C69-4F67-B36F-EE0CF61FCE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B583C5CF-9C69-4F67-B36F-EE0CF61FCE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C8669F-64B0-49AC-8B95-675E1650D153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C8669F-64B0-49AC-8B95-675E1650D153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C8669F-64B0-49AC-8B95-675E1650D153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C8669F-64B0-49AC-8B95-675E1650D153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD454493-DC26-4F79-B64C-6450EF52EE84}
+	EndGlobalSection
+EndGlobal
